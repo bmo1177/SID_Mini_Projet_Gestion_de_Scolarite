@@ -16,7 +16,7 @@ public class GestionScolariteServeur {
     private static final int PORT = 5555;
     private static final String DB_URL = "jdbc:mysql://localhost:3306/scolarite";
     private static final String DB_USER = "root";
-    private static final String DB_PASSWORD = "123456";
+    private static final String DB_PASSWORD = "";
     
     private static ExecutorService threadPool = Executors.newFixedThreadPool(50);
     private static Map<String, ClientHandler> clientsConnectes = new ConcurrentHashMap<>();
