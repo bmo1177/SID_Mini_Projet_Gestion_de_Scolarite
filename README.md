@@ -1,4 +1,3 @@
-```markdown
 # 🎓 Gestion Scolarité - Student Records Management System
 
 ![Java](https://img.shields.io/badge/Java-17+-007396?logo=java)
@@ -160,4 +159,3 @@ src/
 **Mini Project 1 - Gestion de Scolarité**  
 *Deadline: November 17, 2025*  
 *Consultation: November 18-19, 2025*
-```
