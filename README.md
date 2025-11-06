@@ -1,0 +1,2 @@
+# SID_Mini_Projet_Gestion_de_Scolarite
+Utilisant JavaSwing
