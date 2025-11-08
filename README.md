@@ -148,8 +148,8 @@ src/
 
 ## 📧 Contact
 
-**Project Author**: Free
-**Email**: mohamedoussama.belalia@univ-tiaret.dz  
+**Project Author**: 
+**Email**: .@univ-tiaret.dz  
 **University**: Université Ibn Khaldoun – Tiaret  
 **Department**: Computer Science (ISIL - 3rd Year)  
 **Academic Year**: 2025/2026
