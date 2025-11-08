@@ -61,7 +61,7 @@ Client-Server Architecture
    - **Host**: localhost:3306
    - **Database**: gestion_scolarite2
    - **User**: root
-   - **Password**: 123456
+   - **Password**: Usually no passwords for most the databases
 
 ### Application Setup
 1. Clone the repository:
