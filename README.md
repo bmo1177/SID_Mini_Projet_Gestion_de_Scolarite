@@ -66,8 +66,8 @@ Client-Server Architecture
 ### Application Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/gestion_scolarite.git
-   cd gestion_scolarite
+   git clone https://github.com/bmo1177/SID_Mini_Projet_Gestion_de_Scolarite.git
+   cd SID_Mini_Projet_Gestion_de_Scolarite
    ```
 
 2. Build the project with Maven:
@@ -77,19 +77,19 @@ Client-Server Architecture
 
 3. Start the server first:
    ```bash
-   java -cp target/gestion_scolarite-1.0-SNAPSHOT.jar com.mycompany.gestion_scolarite.GestionScolariteServeur
+   java -cp target/SID_Mini_Projet_Gestion_de_Scolarite-1.0-SNAPSHOT.jar com.mycompany.gestion_scolarite.GestionScolariteServeur
    ```
 
 4. Then launch any client interface:
    ```bash
    # For Student interface
-   java -cp target/gestion_scolarite-1.0-SNAPSHOT.jar com.mycompany.gestion_scolarite.ClientEtudiant
+   java -cp target/SID_Mini_Projet_Gestion_de_Scolarite-1.0-SNAPSHOT.jar com.mycompany.gestion_scolarite.ClientEtudiant
    
    # For Teacher interface  
-   java -cp target/gestion_scolarite-1.0-SNAPSHOT.jar com.mycompany.gestion_scolarite.ClientEnseignant
+   java -cp target/SID_Mini_Projet_Gestion_de_Scolarite-1.0-SNAPSHOT.jar com.mycompany.gestion_scolarite.ClientEnseignant
    
    # For Administration interface
-   java -cp target/gestion_scolarite-1.0-SNAPSHOT.jar com.mycompany.gestion_scolarite.ClientScolarite
+   java -cp target/SID_Mini_Projet_Gestion_de_Scolarite-1.0-SNAPSHOT.jar com.mycompany.gestion_scolarite.ClientScolarite
    ```
 
 ## 🔑 Test Credentials
